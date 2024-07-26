@@ -24,7 +24,7 @@ li {
 
 .checkmark-icon {
   position: absolute;
-  left: 0;
+  left: 5px;
 }
 
 .tooltip-icon {
